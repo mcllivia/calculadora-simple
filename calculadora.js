@@ -45,4 +45,5 @@ while (true) {
     } else {
         console.log("Escolha inválida");
     }
+    
 }
